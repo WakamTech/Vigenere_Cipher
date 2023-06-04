@@ -14,7 +14,7 @@ A mobile app developed in Android Studio that implements the Vigenere Cipher alg
 
 Include some screenshots of your app here to showcase its user interface and functionality. For example:
 
-![Screenshot 1](/Screenshots/welcome.jpg)
-![Screenshot 2](/Screenshots/view.jpg)
-![Screenshot 3](/Screenshots/encrypted.jpg)
-![Screenshot 4](/Screenshots/decrypted.jpg)
+![Screenshot 1](/Scrennshots/welcome.jpg)
+![Screenshot 2](/Scrennshots/view.jpg)
+![Screenshot 3](/Scrennshots/encrypted.jpg)
+![Screenshot 4](/Scrennshots/decrypted.jpg)
