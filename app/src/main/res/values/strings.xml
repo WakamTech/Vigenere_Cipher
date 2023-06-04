@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VigenereCipher2</string>
+    <string name="title_activity_vigenere">vigenere</string>
+</resources>
